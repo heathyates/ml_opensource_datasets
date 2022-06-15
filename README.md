@@ -33,10 +33,6 @@ The following are datasets from the Kaggle project.
 
 ## Misc Educational Links 
 
-
-## References 
-- [Bnomial](https://mobile.twitter.com/0xbnomial/status/1523256409529667584) 
-
 ### EDA 
 - [Introduction to EDA](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python/notebook) 
 - [EDA via Python](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook) 
@@ -61,3 +57,7 @@ The following are datasets from the Kaggle project.
 ### Misc 
 - [OpenCV](https://www.kaggle.com/code/bulentsiyah/learn-opencv-by-examples-with-python) 
 - [AutoML via AutoGluon](https://www.kaggle.com/code/innixma/autogluon-rapids-top-1/notebook) 
+
+## References 
+- [Bnomial](https://mobile.twitter.com/0xbnomial/status/1523256409529667584) 
+
