@@ -6,8 +6,21 @@ A collection of urls for open source datasets that can be used for machine learn
 
 The following are datasets from the Kaggle project. 
 
+### General Overview
+- [Simple Decision Tree Approach via Titanic Data](https://www.kaggle.com/c/titanic) 
+- [Regression via House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
+- [Regression and Classification via Wine Quality](https://www.kaggle.com/datasets/rajyellow46/wine-quality) 
+- [Unsupervised learning techniques](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) 
+- [Computer Vision via MNIST data](https://www.kaggle.com/c/digit-recognizer) 
+- [More Computer Vision via Dogs vs. Cats](https://mobile.twitter.com/0xbnomial/status/1523256409529667584) 
+- [Hello World of NLP via IMDB Reviews](https://www.kaggle.com/c/word2vec-nlp-tutorial) 
+- [Time Series via Walmart](https://www.kaggle.com/datasets/bletchley/course-material-walmart-challenge) 
+- [Recommendation System](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+- [Object Detection](https://www.kaggle.com/c/open-images-2019-object-detection) 
+
+
 ### Vision 
-- [MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+- [Additional MNIST Resource](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 - [Face Mask Detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)
 - [Chest X-Ray Images (Pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
@@ -19,6 +32,10 @@ The following are datasets from the Kaggle project.
 - [23 Misc datasets](https://rubikscode.net/2021/07/19/top-23-best-public-datasets-for-practicing-machine-learning/)
 
 ## Misc Educational Links 
+
+
+## References 
+- [Bnomial](https://mobile.twitter.com/0xbnomial/status/1523256409529667584) 
 
 ### EDA 
 - [Introduction to EDA](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python/notebook) 
